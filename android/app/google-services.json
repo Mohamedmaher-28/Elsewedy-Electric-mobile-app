@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374780008185",
+    "project_id": "egytech-ce50d",
+    "storage_bucket": "egytech-ce50d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374780008185:android:4cad2ba50116f1ed993428",
+        "android_client_info": {
+          "package_name": "com.example.egy_tech_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1U4zJnsPX0q65klE05kY3zwwQmYyga4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
